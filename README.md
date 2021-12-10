@@ -2,13 +2,13 @@
 
 This was created as part of YouTube Video. Links below
 
-![GitHub Logo](https://raddy.co.uk/wp-content/uploads/2021/12/bootstrap-landing-page-tutorial.jpg)
+![GitHub Logo](https://g8b9j5b9.stackpathcdn.com/wp-content/uploads/2021/12/bootstrap-landing-page-tutorial.jpg)
 
 ## Installation
 Download and open in any modern browser.
 The original video is not included.
 
-[Video Download Link] (https://www.pexels.com/video/two-people-in-front-of-a-campfire-pouring-water-from-a-kettle-2675515/)
+[Video Download Link](https://www.pexels.com/video/two-people-in-front-of-a-campfire-pouring-water-from-a-kettle-2675515/)
 
 Enjoy!
 
